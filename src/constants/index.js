@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project1.PNG";
-import project2 from "../assets/projects/project2.PNG";
-import project3 from "../assets/projects/project3.PNG";
-import project4 from "../assets/projects/project4.PNG";
+//import project1 from "../assets/projects/project1.PNG";
+//import project2 from "../assets/projects/project2.PNG";
+//import project3 from "../assets/projects/project3.PNG";
+//import project4 from "../assets/projects/project4.PNG";
 
 export const HERO_CONTENT = ` I am a recent Graduate from Arid University Rawalpin strong foundation in front-end development, including expertise in HTML, CSS, JavaScript (ES6), and React.js. My focus lies in crafting visually engaging, responsive, and user-centric web applications. I am also expanding my skills in JSON, API integration, hosting, and Node.js, with the goal of becoming a professional full-stack developer. My academic background, combined with my personal projects, has provided me with a deep understanding of dynamic user interfaces and modern libraries like Tailwind CSS and Bootstrap. I am eager to join a professional company where I can build my skills, ignite my passion, and gain confidence in delivering comprehensive web solutions across the full stack.`;
 
